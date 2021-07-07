@@ -1,7 +1,7 @@
-#Music Analysis for Mood Prediction 
+# Music Analysis for Mood Prediction 
 
 
-This article will cover the music analysis of Million Song Dataset using Data Mining and Deep Learning techniques to analyse the effect the musical features such as tempo, mode, loudness, key and time signature of a song on the mood of a listener. We will be clustering the dataset and training a model to obtain the classes based on similar musical features. This model can be useful to extract the features from any musical piece and determine the of the music and it’s influence on the mood of the listener. This article will discuss the implementation methodologies and psychological influence of music on the thinking abilities and mood of listeners and how we can effectively utilize it to improve it?
+This project will cover the music analysis of Million Song Dataset using Data Mining and Deep Learning techniques to analyse the effect the musical features such as tempo, mode, loudness, key and time signature of a song on the mood of a listener. We will be clustering the dataset and training a model to obtain the classes based on similar musical features. This model can be useful to extract the features from any musical piece and determine the of the music and it’s influence on the mood of the listener. This article will discuss the implementation methodologies and psychological influence of music on the thinking abilities and mood of listeners and how we can effectively utilize it to improve it?
 
 
 ![paper1](https://user-images.githubusercontent.com/57136052/124756244-28b99600-df24-11eb-9d7b-e94a13588683.PNG)
